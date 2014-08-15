@@ -1,0 +1,91 @@
+body {
+    background-image: url('../map_images/chalkboard.jpg');
+    overflow: hidden;
+}
+
+.worldmap {
+	text-align: center;
+}
+
+.title
+
+h1 {
+	position: absolute;
+	left: 22%;
+	font-family: 'Brandon Grotesque', Helvetice Neue, sans-serif;
+	color: #fff;
+	text-transform: uppercase;
+	letter-spacing: .2em;
+	z-index: 2;
+
+}
+
+/* Popup Modal */
+
+#tt_sm {
+	max-width: 400px;
+}
+
+
+/* Popup Country Title */
+
+#tt_name_sm {
+	font-family: 'Brandon Grotesque', Helvetice Neue, sans-serif;
+	text-transform: uppercase;
+	letter-spacing: .1em;
+	font-size: 16px;
+}
+
+
+/* Popup Body Text */
+
+#tt_custom_sm {
+	font-family: Georgia, serif;
+	line-height: 1.5em;
+}
+
+footer {
+	position: absolute;
+	bottom: 0;
+	left: 0;
+	background: rgba(0,0,0,.4);
+	width: 100%;
+	height: 80px;
+}
+
+footer button {
+	background: #0088ff;
+	color: #fff;
+	float: left;
+	cursor: pointer;
+	margin-top: 20px;
+	margin-left: 20px;
+	border: 0;
+	border-radius: 4px;
+	padding: 0px 30px;
+	height: 40px;
+	font-family: 'Brandon Grotesque', Helvetice Neue, sans-serif;
+	font-weight: 700;
+	letter-spacing: .2em;
+	text-transform: uppercase;
+}
+
+.donate {
+	background: #f9be1c;
+	color: #222;
+}
+
+.donate:hover {
+	background: #ffd76b;
+}
+
+.learnmore:hover {
+	background: #48aaff;
+}
+
+footer img {
+	float: right;
+	margin-right: 20px;
+	cursor: pointer;
+}
+
