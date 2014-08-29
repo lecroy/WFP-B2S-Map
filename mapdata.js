@@ -13,10 +13,9 @@ main_settings:{
 		state_url: '',
 		all_states_inactive: 'yes',
 		location_description: 'Location description',
-		location_color: '#eea93f',
+		location_color: '#7c20ca',
 		location_opacity: '1',
-		location_url: 'http://simplemaps.com',
-		location_size: '35',
+		location_size: '15',
 		location_type: 'circle',
 		all_locations_inactive: 'no',
 		url_new_tab: 'no',
@@ -1797,6 +1796,284 @@ state_specific:{
 },
 
 locations:{ 
+
+	0: { 
+		name: 'Armenia',
+		description: '67,425 beneficiaries<br>',
+		lat: '40',
+		lng: '45',
+		color: 'default',
+		url: '',
+		size: '20',
+		type: 'circle',
+		opacity: '1'
+	},
+
+	1: { 
+		name: 'Ivory Coast',
+		description: '426,768 beneficiaries<br>',
+		lat: '5',
+		lng: '-4',
+		color: 'default',
+		url: '',
+		size: '20',
+		type: 'circle',
+		opacity: '1'
+	},
+
+	2: { 
+		name: 'Djibouti',
+		description: '16,846 beneficiaries<br>',
+		lat: '11.6',
+		lng: '43.1',
+		color: 'default',
+		url: '',
+		size: '20',
+		type: 'circle',
+		opacity: '1'
+	},
+
+	3: { 
+		name: 'Ethiopia',
+		description: '765,250 beneficiaries<br><br /><img src="map_images/ETH.jpg" width="400" height="110" /><br /><span style="color: #333; font-size: 15px">After the devastating earthquake in 2010, WFP scaled up support for the school meals program of Haiti’s government. More than one million children across the country receive a daily school meal.',
+		lat: '9',
+		lng: '38.7',
+		color: 'default',
+		url: '',
+		size: '20',
+		type: 'circle',
+		opacity: '1'
+	},
+
+	4: { 
+		name: 'Ghana',
+		description: '210,062 beneficiaries<br>',
+		lat: '5.5',
+		lng: '.2',
+		color: 'default',
+		url: '',
+		size: '20',
+		type: 'circle',
+		opacity: '1'
+	},
+
+	5: { 
+		name: 'Guinea Bissau',
+		description: '110,877 beneficiaries<br>',
+		lat: '12',
+		lng: '-14',
+		color: 'default',
+		url: '',
+		size: '20',
+		type: 'circle',
+		opacity: '1'
+	},
+
+	6: { 
+		name: 'Haiti',
+		description: '650,521 beneficiaries<br><br /><img src="map_images/HAI.jpg" width="400" height="110" /><br /><span style="color: #333; font-size: 15px">After the devastating earthquake in 2010, WFP scaled up support for the school meals program of Haiti’s government. More than one million children across the country receive a daily school meal.',
+		lat: '18.5',
+		lng: '-72.3',
+		color: 'default',
+		url: '',
+		size: '20',
+		type: 'circle',
+		opacity: '1'
+	},
+
+	7: { 
+		name: 'Indonesia',
+		description: '11,144 beneficiaries<br><br /><img src="map_images/IND.jpg" width="400" height="110" /><br /><span style="color: #333; font-size: 15px">WFPs homegrown school meals pilot project in Indonesia aims to ensure that kids like these escape the cycle of hunger through healthy food and a good education, while also boosting local economies and supporting small farmers.',
+		lat: '-6.1',
+		lng: '106.8',
+		color: 'default',
+		url: '',
+		size: '20',
+		type: 'circle',
+		opacity: '1'
+	},
+
+	8: { 
+		name: 'Iraq',
+		description: '678,132 beneficiaries<br>',
+		lat: '33.3',
+		lng: '44.4',
+		color: 'default',
+		url: '',
+		size: '20',
+		type: 'circle',
+		opacity: '1'
+	},
+
+	9: { 
+		name: 'Kenya',
+		description: '880,466 beneficiaries<br><br /><img src="map_images/KEN.jpg" width="400" height="110" /><br /><span style="color: #333; font-size: 15px">WFP provides daily meals to about 770,000 students and Kenya, and the Ministry of Education handles meals for another 750,000. Globally, the United States and Canada are the largest donors to WFP\'s school meals program.',
+		lat: '-1.2',
+		lng: '36.8',
+		color: 'default',
+		url: '',
+		size: '20',
+		type: 'circle',
+		opacity: '1'
+	},
+
+	10: { 
+		name: 'Laos',
+		description: '192,362 beneficiaries<br>',
+		lat: '18',
+		lng: '102.6',
+		color: 'default',
+		url: '',
+		size: '20',
+		type: 'circle',
+		opacity: '1'
+	},
+
+	11: { 
+		name: 'Malawi',
+		description: '803,210 beneficiaries<br><br /><img src="map_images/MWI.jpg" width="400" height="110" /><br /><span style="color: #333; font-size: 15px">“I wouldn’t have finished my primary school if there had been no school meals… I want the girls to avoid getting married and pregnant early… I want them to know it isn’t worth losing their education.” – Alice Kankhwala, today a teacher',
+		lat: '-14',
+		lng: '33.7',
+		color: 'default',
+		url: '',
+		size: '20',
+		type: 'circle',
+		opacity: '1'
+	},
+
+	12: { 
+		name: 'Rwanda',
+		description: '105,651 beneficiaries<br>',
+		lat: '-1.9',
+		lng: '29.8',
+		color: 'default',
+		url: '',
+		size: '20',
+		type: 'circle',
+		opacity: '1'
+	},
+
+	13: { 
+		name: 'Mozambique',
+		description: '81,080 beneficiaries<br><br /><img src="map_images/MOZ.jpg" width="400" height="110" /><br /><span style="color: #333; font-size: 15px">“I like studying and help my classmates to do their homework. I would like to become a teacher.” – Albertina Naftal, student',
+		lat: '-25.9',
+		lng: '32.6',
+		color: 'default',
+		url: '',
+		size: '20',
+		type: 'circle',
+		opacity: '1'
+	},
+
+	14: { 
+		name: 'Nicaragua',
+		description: '176,679 beneficiaries<br><span style="color: #333; font-size: 15px">This country is among WFP’s newest partners on school meals. In February 2014, WFP and the government of Nicaragua began distributing school meals for the first time. Thanks to this new partnership, over 1 million children in public preschools in Nicaragua will be guaranteed a nutritious school lunch this school year.',
+		lat: '13',
+		lng: '-85',
+		color: 'default',
+		url: '',
+		size: '20',
+		type: 'circle',
+		opacity: '1'
+	},
+
+	15: { 
+		name: 'Palestine',
+		description: '155,322 beneficiaries<br>',
+		lat: '31.6',
+		lng: '35.1',
+		color: 'default',
+		url: '',
+		size: '20',
+		type: 'circle',
+		opacity: '1'
+	},
+
+	16: { 
+		name: 'Palestine',
+		description: '155,322 beneficiaries<br>',
+		lat: '31.6',
+		lng: '35.1',
+		color: 'default',
+		url: '',
+		size: '20',
+		type: 'circle',
+		opacity: '1'
+	},
+
+	17: { 
+		name: 'Senegal',
+		description: '499,130 beneficiaries<br>',
+		lat: '14.6',
+		lng: '-17.4',
+		color: 'default',
+		url: '',
+		size: '20',
+		type: 'circle',
+		opacity: '1'
+	},
+
+	18: { 
+		name: 'Sierra Leone',
+		description: '234,028 beneficiaries<br>',
+		lat: '8.5',
+		lng: '-13.2',
+		color: 'default',
+		url: '',
+		size: '20',
+		type: 'circle',
+		opacity: '1'
+	},
+
+	19: { 
+		name: 'South Sudan',
+		description: '272,486 beneficiaries<br><br /><img src="map_images/SSD.jpg" width="400" height="110" /><br /><span style="color: #333; font-size: 15px">“We know that food is a source of energy. If you come from home without eating anything, if the teacher tries to teach you, you’ll look at the chalk but one letter would divide in two which is not good.” – Bakhita Josephine Sisto, student',
+		lat: '4.8',
+		lng: '31.6',
+		color: 'default',
+		url: '',
+		size: '20',
+		type: 'circle',
+		opacity: '1'
+	},
+
+	20: { 
+		name: 'Zambia',
+		description: '868,951 beneficiaries<br>',		
+		lat: '-15.4',
+		lng: '28.2',
+		color: 'default',
+		url: '',
+		size: '20',
+		type: 'circle',
+		opacity: '1'
+	},
+
+	21: { 
+		name: 'Niger',
+		description: '190,850 beneficiaries<br>',		
+		lat: '18',
+		lng: '10',
+		color: 'default',
+		url: '',
+		size: '20',
+		type: 'circle',
+		opacity: '1'
+	},
+
+	22: { 
+		name: 'Burundi',
+		description: '315,823 beneficiaries<br><br /><img src="map_images/BUR.jpg" width="400" height="110" /><br /><span style="color: #333; font-size: 15px">“The food has actually helped me a great deal. I was able to concentrate on my lessons in the classroom, and I could do all my other, later activities because of the food that was donated by the WFP.” – Apollinaire Gahungu, today a communications specialist',
+		lat: '-3.5',
+		lng: '30',
+		color: 'default',
+		url: '',
+		size: '20',
+		type: 'circle',
+		opacity: '1'
+	},
+
+	
 },
 
 regions:{ 
