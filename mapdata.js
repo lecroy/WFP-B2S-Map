@@ -295,7 +295,7 @@ state_specific:{
 
 	CD: { 
 		name: 'Congo DR',
-		description: '1,267,496 beneficiaries<br>',
+		description: '1,267,496 beneficiaries<br><span style="color: #333; font-size: 15px">Through ongoing conflict, WFP provides emergency school meals to support vulnerable children whose families struggle to buy or produce enough food.',
 		color: '#006cff',
 		hover_color: '#f9be1c',
 		url: 'default',
@@ -925,7 +925,7 @@ state_specific:{
 
 	KP: { 
 		name: 'North Korea',
-		description: '1,632,272 beneficiaries<br>',
+		description: '1,632,272 beneficiaries<br><span style="color: #333; font-size: 15px">WFP works with the government to produce food for children in orphanages, schools and hospitals in 14 locations across the country, where almost one in three kids remains chronically malnourished.',
 		color: '#006cff',
 		hover_color: '#f9be1c',
 		url: 'default',
@@ -995,7 +995,7 @@ state_specific:{
 
 	LS: { 
 		name: 'Lesotho',
-		description: '170,983 beneficiaries<br><br /><img src="map_images/LES.jpg" width="400" height="110" /><br /><span style="color: #333; font-size: 15px">“Having been a student myself in Lesotho who benefited from school feeding, it is very close to my heart, because after having walked 3, 5 kilometers to school, you really needed to be energized in order to learn.” – ‘Mamphono Khaketla, was recently Lesotho’s Minister of Education',
+		description: '170,983 beneficiaries<br><br /><img src="map_images/LES.jpg" width="400" height="110" /><br /><span style="color: #333; font-size: 15px">“Having been a student myself in Lesotho who benefited from school feeding, it is very close to my heart, because after having walked 3, 5 kilometers to school, you really needed to be energized in order to learn.” – Mamphono Khaketla, was recently Lesotho’s Minister of Education',
 		color: '#98cfff',
 		hover_color: '#f9be1c',
 		url: 'default',
@@ -1445,7 +1445,7 @@ state_specific:{
 
 	SD: { 
 		name: 'Sudan',
-		description: '863,460 beneficiaries<br>',
+		description: '863,460 beneficiaries<br><span style="color: #333; font-size: 15px">“With all these expenses, I find it difficult to meet the needs of all my children, and this program has lifted the burden of providing a school meal to Ayisha.” – Ibrahim, a school teacher whose salary is barely enough to cover school fees for all of his children, including fifth grader Ayisha',
 		color: '#078bff',
 		hover_color: '#f9be1c',
 		url: 'default',
@@ -1594,7 +1594,7 @@ state_specific:{
 	},
 
 	TJ: { 
-		name: 'Tadjikistan',
+		name: 'Tajikistan',
 		description: '327,346 beneficiaries<br>',
 		color: '#6abaff',
 		hover_color: '#f9be1c',
@@ -1665,7 +1665,7 @@ state_specific:{
 
 	TZ: { 
 		name: 'Tanzania',
-		description: '536,027 beneficiaries<br>',
+		description: '536,027 beneficiaries<br><span style="color: #333; font-size: 15px">“It helped me to grow healthy. Without WFP food, I could not have lived in peace. I could not have studied.” – Bernard Samuel, today a medical student who volunteers with food management at Sanganigwa Street Childrens’ Home where he received meals as a child',
 		color: '#35a0ff',
 		hover_color: '#f9be1c',
 		url: 'default',
@@ -1775,7 +1775,7 @@ state_specific:{
 
 	ZM: { 
 		name: 'Zambia',
-		description: '868,951 beneficiaries<br>',
+		description: '868,951 beneficiaries<br><span style="color: #333; font-size: 15px">When WFP re-started Zambia’s school meals program in 2002 on the heels of one of the country’s worst droughts, it reached just 10,000 children. Just over a decade later, it now feeds 860,000 kids in more than 2,000 schools on a daily basis.',
 		color: '#078bff',
 		hover_color: '#f9be1c',
 		url: 'default',
