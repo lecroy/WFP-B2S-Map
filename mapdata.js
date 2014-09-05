@@ -295,7 +295,7 @@ state_specific:{
 
 	CD: { 
 		name: 'Congo DR',
-		description: '1,267,496 beneficiaries<br><span style="color: #333; font-size: 15px">Through ongoing conflict, WFP provides emergency school meals to support vulnerable children whose families struggle to buy or produce enough food.',
+		description: '1,267,496 beneficiaries<br><br><span style="color: #333; font-size: 15px">Through ongoing conflict, WFP provides emergency school meals to support vulnerable children whose families struggle to buy or produce enough food.',
 		color: '#006cff',
 		hover_color: '#f9be1c',
 		url: 'default',
@@ -305,7 +305,7 @@ state_specific:{
 
 	CF: { 
 		name: 'Central African Republic',
-		description: '196,030 beneficiaries<br><br /><img src="map_images/CAR.jpg" width="400" height="110" /><br /><span style="color: #333; font-size: 15px">WFP provides school meals to 76,000 primary and 4,300 pre-school children in the southern part of the country, where Fere Primary School is located. In the conflict-ridden north, WFP supports school meals to facilitate the return of 55,000 primary students to school.',
+		description: '196,030 beneficiaries<br><br><img src="map_images/CAR.jpg" width="400" height="110" /><br /><span style="color: #333; font-size: 15px">WFP provides school meals to 76,000 primary and 4,300 pre-school children in the southern part of the country, where Fere Primary School is located. In the conflict-ridden north, WFP supports school meals to facilitate the return of 55,000 primary students to school.',
 		color: '#98cfff',
 		hover_color: '#f9be1c',
 		url: 'default',
@@ -915,7 +915,7 @@ state_specific:{
 
 	KH: { 
 		name: 'Cambodia',
-		description: '527,535 beneficiaries<br><span style="color: #333; font-size: 15px">Since 2008, WFP school meals has benefited 500,000 students in Cambodia each year.',
+		description: '527,535 beneficiaries<br><br><img src="map_images/CAM.jpg" width="400" height="110" /><br /><span style="color: #333; font-size: 15px">Since 2008, WFP school meals has benefited 500,000 students in Cambodia each year.',
 		color: '#35a0ff',
 		hover_color: '#f9be1c',
 		url: 'default',
@@ -925,7 +925,7 @@ state_specific:{
 
 	KP: { 
 		name: 'North Korea',
-		description: '1,632,272 beneficiaries<br><span style="color: #333; font-size: 15px">WFP works with the government to produce food for children in orphanages, schools and hospitals in 14 locations across the country, where almost one in three kids remains chronically malnourished.',
+		description: '1,632,272 beneficiaries<br><br><span style="color: #333; font-size: 15px">WFP works with the government to produce food for children in orphanages, schools and hospitals in 14 locations across the country, where almost one in three kids remains chronically malnourished.',
 		color: '#006cff',
 		hover_color: '#f9be1c',
 		url: 'default',
@@ -1215,7 +1215,7 @@ state_specific:{
 
 	NI: { 
 		name: 'Nicaragua',
-		description: '176,679 beneficiaries<br><span style="color: #333; font-size: 15px">This country is among WFP’s newest partners on school meals. In February 2014, WFP and the government of Nicaragua began distributing school meals for the first time. Thanks to this new partnership, over 1 million children in public preschools in Nicaragua will be guaranteed a nutritious school lunch this school year.',
+		description: '176,679 beneficiaries<br><br><span style="color: #333; font-size: 15px">This country is among WFP’s newest partners on school meals. In February 2014, WFP and the government of Nicaragua began distributing school meals for the first time. Thanks to this new partnership, over 1 million children in public preschools in Nicaragua will be guaranteed a nutritious school lunch this school year.',
 		color: '#98cfff',
 		hover_color: '#f9be1c',
 		url: 'default',
@@ -1445,7 +1445,7 @@ state_specific:{
 
 	SD: { 
 		name: 'Sudan',
-		description: '863,460 beneficiaries<br><span style="color: #333; font-size: 15px">“With all these expenses, I find it difficult to meet the needs of all my children, and this program has lifted the burden of providing a school meal to Ayisha.” – Ibrahim, a school teacher whose salary is barely enough to cover school fees for all of his children, including fifth grader Ayisha',
+		description: '863,460 beneficiaries<br><br><img src="map_images/SUD.jpg" width="400" height="110" /><br /><span style="color: #333; font-size: 15px">“With all these expenses, I find it difficult to meet the needs of all my children, and this program has lifted the burden of providing a school meal to Ayisha.” – Ibrahim, a school teacher whose salary is barely enough to cover school fees for all of his children, including fifth grader Ayisha',
 		color: '#078bff',
 		hover_color: '#f9be1c',
 		url: 'default',
@@ -1665,7 +1665,7 @@ state_specific:{
 
 	TZ: { 
 		name: 'Tanzania',
-		description: '536,027 beneficiaries<br><span style="color: #333; font-size: 15px">“It helped me to grow healthy. Without WFP food, I could not have lived in peace. I could not have studied.” – Bernard Samuel, today a medical student who volunteers with food management at Sanganigwa Street Childrens’ Home where he received meals as a child',
+		description: '536,027 beneficiaries<br><br><span style="color: #333; font-size: 15px">“It helped me to grow healthy. Without WFP food, I could not have lived in peace. I could not have studied.” – Bernard Samuel, today a medical student who volunteers with food management at Sanganigwa Street Childrens’ Home where he received meals as a child',
 		color: '#35a0ff',
 		hover_color: '#f9be1c',
 		url: 'default',
@@ -1775,7 +1775,7 @@ state_specific:{
 
 	ZM: { 
 		name: 'Zambia',
-		description: '868,951 beneficiaries<br><span style="color: #333; font-size: 15px">When WFP re-started Zambia’s school meals program in 2002 on the heels of one of the country’s worst droughts, it reached just 10,000 children. Just over a decade later, it now feeds 860,000 kids in more than 2,000 schools on a daily basis.',
+		description: '868,951 beneficiaries<br><br><span style="color: #333; font-size: 15px">When WFP re-started Zambia’s school meals program in 2002 on the heels of one of the country’s worst droughts, it reached just 10,000 children. Just over a decade later, it now feeds 860,000 kids in more than 2,000 schools on a daily basis.',
 		color: '#078bff',
 		hover_color: '#f9be1c',
 		url: 'default',
@@ -1967,7 +1967,7 @@ locations:{
 
 	14: { 
 		name: 'Nicaragua',
-		description: '176,679 beneficiaries<br><span style="color: #333; font-size: 15px">This country is among WFP’s newest partners on school meals. In February 2014, WFP and the government of Nicaragua began distributing school meals for the first time. Thanks to this new partnership, over 1 million children in public preschools in Nicaragua will be guaranteed a nutritious school lunch this school year.',
+		description: '176,679 beneficiaries<br><br><span style="color: #333; font-size: 15px">This country is among WFP’s newest partners on school meals. In February 2014, WFP and the government of Nicaragua began distributing school meals for the first time. Thanks to this new partnership, over 1 million children in public preschools in Nicaragua will be guaranteed a nutritious school lunch this school year.',
 		lat: '13',
 		lng: '-85',
 		color: 'default',
