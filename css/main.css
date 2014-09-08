@@ -4,6 +4,20 @@ body {
     margin-left: -50px;
 }
 
+.fb-share-button {
+	position: absolute;
+	top: 50px;
+	right: 40px;
+	z-index: 10;
+}
+
+.twitter-share-button {
+	position: absolute;
+	top: 32px;
+	right: 5px;
+	z-index: 10;
+}
+
 .worldmap {
 	text-align: center;
 }

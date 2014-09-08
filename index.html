@@ -7,10 +7,28 @@
 		<script src="worldmap.js"></script>
     </head>
     <body>
+    <div id="fb-root"></div>
+		<script>(function(d, s, id) {
+		  var js, fjs = d.getElementsByTagName(s)[0];
+		  if (d.getElementById(id)) return;
+		  js = d.createElement(s); js.id = id;
+		  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&appId=209385899097557&version=v2.0";
+		  fjs.parentNode.insertBefore(js, fjs);
+		}(document, 'script', 'facebook-jssdk'));
+		</script>
+
+		<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="https://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");
+		</script>
+
     <section class="worldmap">
     	<div class="title">
 			<a href="http://wfpusa.org/backtoschool"><h1>WFP School Meals Around The World - 2013</h1></a>
 		</div>
+
+		<div class="fb-share-button" data-href="http://wfpusa.org/schoolmealsmap" data-width="100">
+		</div>
+		<a href="https://twitter.com/share" class="twitter-share-button" data-lang="en" data-text="Where in the world does the World Food Programme feed kids in school? Check out this map to find out -->" data-url="http://wfpusa.org/schoolmealsmap" rel="canonical">Tweet</a>
+
 	<div id="map"></div>
 	</section>
 	<footer>
@@ -20,6 +38,7 @@
 		</a>
 		<a href="http://wfpusa.org"><img src="map_images/wfp-logo.svg" width="70" height="70"></a>
 	</footer>
+	
 	
 	</body>
 </html>
