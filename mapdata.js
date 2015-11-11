@@ -9,7 +9,7 @@ main_settings:{
 		pop_ups: 'detect',
 		state_description: 'Add images:<br /><img src="/img/logo.png" width="182" height="42" /><br /><span style="color: red; font-size: 16px">Change Size and Color</span><br />Make lists and more<br /><ol><li>One thing</li><li>To do</li></ol>',
 		state_color: '#e0e0e0',
-		state_hover_color: '#98cfff',
+		state_hover_color: '#96ceff',
 		state_url: '',
 		all_states_inactive: 'yes',
 		location_description: 'Location description',
@@ -65,8 +65,8 @@ state_specific:{
 
 	AM: { 
 		name: 'Armenia',
-		description: '67,425 beneficiaries<br>',
-		color: '#98cfff',
+		description: '63,013 beneficiaries<br>',
+		color: '#96ceff',
 		hover_color: '#f9be1c',
 		url: 'default',
 		hide: 'no',
@@ -135,7 +135,7 @@ state_specific:{
 
 	BD: { 
 		name: 'Bangladesh',
-		description: '1,147,618 beneficiaries<br><br /><img src="map_images/BAN.jpg" width="400" height="110" /><br /><span style="color: #333; font-size: 15px">“I think my life will be much better now. I can read, write and spell well now. This will help me to fulfill my dream. I want to be a doctor... I don’t know whether all kids like me get biscuits in school, but I do, and I am grateful for this.” – Al-Amin, student and former domestic worker',
+		description: '927,600 beneficiaries<br><br /><img src="map_images/BAN.jpg" width="400" height="110" /><br /><span style="color: #333; font-size: 15px">“I think my life will be much better now. I can read, write and spell well now. This will help me to fulfill my dream. I want to be a doctor... I don’t know whether all kids like me get biscuits in school, but I do, and I am grateful for this.” – Al-Amin, student and former domestic worker',
 		color: '#006cff',
 		hover_color: '#f9be1c',
 		url: 'default',
@@ -155,8 +155,8 @@ state_specific:{
 
 	BF: { 
 		name: 'Burkina Faso',
-		description: '98,423 beneficiaries<br><br /><img src="map_images/BFS.jpg" width="400" height="110" /><br /><span style="color: #333; font-size: 15px">“When I am older, I would like to be a nurse, so I can take care of people… If I stay in school, then I can stay unmarried and not get pregnant.” – Hadiatou Diallo, student',
-		color: '#98cfff',
+		description: '109,186 beneficiaries<br><br /><img src="map_images/BFS.jpg" width="400" height="110" /><br /><span style="color: #333; font-size: 15px">“When I am older, I would like to be a nurse, so I can take care of people… If I stay in school, then I can stay unmarried and not get pregnant.” – Hadiatou Diallo, student',
+		color: '#96ceff',
 		hover_color: '#f9be1c',
 		url: 'default',
 		hide: 'no',
@@ -185,8 +185,8 @@ state_specific:{
 
 	BI: { 
 		name: 'Burundi',
-		description: '315,823 beneficiaries<br><br /><img src="map_images/BUR.jpg" width="400" height="110" /><br /><span style="color: #333; font-size: 15px">“The food has actually helped me a great deal. I was able to concentrate on my lessons in the classroom, and I could do all my other, later activities because of the food that was donated by the WFP.” – Apollinaire Gahungu, today a communications specialist',
-		color: '#6abaff',
+		description: '418,405 beneficiaries<br><br /><img src="map_images/BUR.jpg" width="400" height="110" /><br /><span style="color: #333; font-size: 15px">“The food has actually helped me a great deal. I was able to concentrate on my lessons in the classroom, and I could do all my other, later activities because of the food that was donated by the WFP.” – Apollinaire Gahungu, today a communications specialist',
+		color: '#2c9eff',
 		hover_color: '#f9be1c',
 		url: 'default',
 		hide: 'no',
@@ -195,8 +195,8 @@ state_specific:{
 
 	BJ: { 
 		name: 'Benin',
-		description: '95,229 beneficiaries<br><br /><img src="map_images/BEN.jpg" width="400" height="110" /><br /><span style="color: #333; font-size: 15px">In partnership with the government of Benin, WFP provides food assistance to more than 100,000 students at 364 schools across the country.',
-		color: '#98cfff',
+		description: '99,160 beneficiaries<br><br /><img src="map_images/BEN.jpg" width="400" height="110" /><br /><span style="color: #333; font-size: 15px">In partnership with the government of Benin, WFP provides food assistance to more than 100,000 students at 364 schools across the country.',
+		color: '#96ceff',
 		hover_color: '#f9be1c',
 		url: 'default',
 		hide: 'no',
@@ -215,8 +215,8 @@ state_specific:{
 
 	BO: { 
 		name: 'Bolivia',
-		description: '77,182 beneficiaries<br><br /><img src="map_images/BOL.jpg" width="400" height="110" /><br /><span style="color: #333; font-size: 15px">“At home we only eat once and it’s not as tasty as the food we eat in school… I want to have a nice house in the city with flowers and a garden and trees.” – Eulalia Sanco Ishlla, student',
-		color: '#98cfff',
+		description: '31,971 beneficiaries<br><br /><img src="map_images/BOL.jpg" width="400" height="110" /><br /><span style="color: #333; font-size: 15px">“At home we only eat once and it’s not as tasty as the food we eat in school… I want to have a nice house in the city with flowers and a garden and trees.” – Eulalia Sanco Ishlla, student',
+		color: '#96ceff',
 		hover_color: '#f9be1c',
 		url: 'default',
 		hide: 'no',
@@ -245,8 +245,8 @@ state_specific:{
 
 	BT: { 
 		name: 'Bhutan',
-		description: '36,492 beneficiaries<br><br /><img src="map_images/BHU.jpg" width="400" height="110" /><br /><span style="color: #333; font-size: 15px">“I want to be a doctor when I grow up. But if all else fails, at least I know I can be a good farmer and make a living out of it.” – Karma Yangzom, student and captain of school’s garden and Agriculture Programme',
-		color: '#98cfff',
+		description: '30,346 beneficiaries<br><br /><img src="map_images/BHU.jpg" width="400" height="110" /><br /><span style="color: #333; font-size: 15px">“I want to be a doctor when I grow up. But if all else fails, at least I know I can be a good farmer and make a living out of it.” – Karma Yangzom, student and captain of school’s garden and Agriculture Programme',
+		color: '#96ceff',
 		hover_color: '#f9be1c',
 		url: 'default',
 		hide: 'no',
@@ -295,8 +295,8 @@ state_specific:{
 
 	CD: { 
 		name: 'Congo DR',
-		description: '1,267,496 beneficiaries<br><br><img src="map_images/CON.jpg" width="400" height="110" /><br /><span style="color: #333; font-size: 15px">Through ongoing conflict, WFP provides emergency school meals to support vulnerable children whose families struggle to buy or produce enough food.',
-		color: '#006cff',
+		description: '621,507 beneficiaries<br><br><img src="map_images/CON.jpg" width="400" height="110" /><br /><span style="color: #333; font-size: 15px">Through ongoing conflict, WFP provides emergency school meals to support vulnerable children whose families struggle to buy or produce enough food.',
+		color: '#0088ff',
 		hover_color: '#f9be1c',
 		url: 'default',
 		hide: 'no',
@@ -305,8 +305,8 @@ state_specific:{
 
 	CF: { 
 		name: 'Central African Republic',
-		description: '196,030 beneficiaries<br><br><img src="map_images/CAR.jpg" width="400" height="110" /><br /><span style="color: #333; font-size: 15px">WFP provides school meals to 76,000 primary and 4,300 pre-school children in the southern part of the country, where Fere Primary School is located. In the conflict-ridden north, WFP supports school meals to facilitate the return of 55,000 primary students to school.',
-		color: '#98cfff',
+		description: '147,185 beneficiaries<br><br><img src="map_images/CAR.jpg" width="400" height="110" /><br /><span style="color: #333; font-size: 15px">WFP provides school meals to 76,000 primary and 4,300 pre-school children in the southern part of the country, where Fere Primary School is located. In the conflict-ridden north, WFP supports school meals to facilitate the return of 55,000 primary students to school.',
+		color: '#96ceff',
 		hover_color: '#f9be1c',
 		url: 'default',
 		hide: 'no',
@@ -315,8 +315,8 @@ state_specific:{
 
 	CG: { 
 		name: 'Congo',
-		description: '90,406 beneficiaries<br>',
-		color: '#98cfff',
+		description: '92,000 beneficiaries<br>',
+		color: '#96ceff',
 		hover_color: '#f9be1c',
 		url: 'default',
 		hide: 'no',
@@ -335,8 +335,8 @@ state_specific:{
 
 	CI: { 
 		name: 'Ivory Coast',
-		description: '426,768 beneficiaries<br>',
-		color: '#98cfff',
+		description: '419,768 beneficiaries<br>',
+		color: '#2c9eff',
 		hover_color: '#f9be1c',
 		url: 'default',
 		hide: 'no',
@@ -355,12 +355,12 @@ state_specific:{
 
 	CM: { 
 		name: 'Cameroon',
-		description: 'default',
-		color: 'default',
-		hover_color: 'default',
+		description: '19,459 beneficiaries<br>',
+		color: '#96ceff',
+		hover_color: '#f9be1c',
 		url: 'default',
 		hide: 'no',
-		inactive: 'yes'
+		inactive: 'no'
 	},
 
 	CN: { 
@@ -375,8 +375,8 @@ state_specific:{
 
 	CO: { 
 		name: 'Colombia',
-		description: '69,100 beneficiaries<br><br /><img src="map_images/COL.jpg" width="400" height="110" /><br /><span style="color: #333; font-size: 15px">“We assist 185 children every day in this centre alone. They receive education, health services and, most important, nutritious food, because everything is linked. With good nutrition these kids have the strength to play and learn and they are healthy.” – Myriam Parra, founder of Piccoli Saffi foundation',
-		color: '#98cfff',
+		description: '57,695 beneficiaries<br><br /><img src="map_images/COL.jpg" width="400" height="110" /><br /><span style="color: #333; font-size: 15px">“We assist 185 children every day in this centre alone. They receive education, health services and, most important, nutritious food, because everything is linked. With good nutrition these kids have the strength to play and learn and they are healthy.” – Myriam Parra, founder of Piccoli Saffi foundation',
+		color: '#96ceff',
 		hover_color: '#f9be1c',
 		url: 'default',
 		hide: 'no',
@@ -395,8 +395,8 @@ state_specific:{
 
 	CU: { 
 		name: 'Cuba',
-		description: '58,073 beneficiaries<br>',
-		color: '#98cfff',
+		description: '57,679 beneficiaries<br>',
+		color: '#96ceff',
 		hover_color: '#f9be1c',
 		url: 'default',
 		hide: 'no',
@@ -406,7 +406,7 @@ state_specific:{
 	CV: { 
 		name: 'Cape Verde',
 		description: '<br /><img src="map_images/CAP.jpg" width="400" height="110" /><br /><span style="color: #333; font-size: 15px">“I was always hungry when I came to school, but then I would eat my afternoon meal and it would give me the strength to keep on going… I often used to go to school hungry. Sometimes, I went just for the meal. I’d have a snack before class started and another when they let out at 3:30 in the afternoon. Those meals gave me the energy to concentrate on my studies instead of my stomach.” – Vera Tavares, college-educated businesswoman',
-		color: '#98cfff',
+		color: '#96ceff',
 		hover_color: '#f9be1c',
 		url: 'default',
 		hide: 'no',
@@ -445,8 +445,8 @@ state_specific:{
 
 	DJ: { 
 		name: 'Djibouti',
-		description: '16,846 beneficiaries<br>',
-		color: '#98cfff',
+		description: '17,479 beneficiaries<br>',
+		color: '#96ceff',
 		hover_color: '#f9be1c',
 		url: 'default',
 		hide: 'no',
@@ -475,8 +475,8 @@ state_specific:{
 
 	DZ: { 
 		name: 'Algeria',
-		description: '40,666 beneficiaries<br>',
-		color: '#98cfff',
+		description: '40,340 beneficiaries<br>',
+		color: '#96ceff',
 		hover_color: '#f9be1c',
 		url: 'default',
 		hide: 'no',
@@ -485,8 +485,8 @@ state_specific:{
 
 	EC: { 
 		name: 'Ecuador',
-		description: '15,079 beneficiaries<br><br /><img src="map_images/ECU.jpg" width="400" height="110" /><br /><span style="color: #333; font-size: 15px">At the Cristobal de Troya School in the Imbabura Province, students snack on a passion fruit. In partnership with the local government, WFP provides school children with locally raised fruits and vegetables to complement their school meals.',
-		color: '#98cfff',
+		description: '14,954 beneficiaries<br><br /><img src="map_images/ECU.jpg" width="400" height="110" /><br /><span style="color: #333; font-size: 15px">At the Cristobal de Troya School in the Imbabura Province, students snack on a passion fruit. In partnership with the local government, WFP provides school children with locally raised fruits and vegetables to complement their school meals.',
+		color: '#96ceff',
 		hover_color: '#f9be1c',
 		url: 'default',
 		hide: 'no',
@@ -505,8 +505,8 @@ state_specific:{
 
 	EG: { 
 		name: 'Egypt',
-		description: '236,892 beneficiaries<br><br /><img src="map_images/EGY.jpg" width="400" height="110" /><br /><span style="color: #333; font-size: 15px">“It [WFP] helped me with the food it gives us; the rice and the biscuits and helped me to go to school because my parents only agreed to send me to school when they knew it was for free. It helped me go to school because ‘knowledge is light’… I wish to become a teacher to teach unprivileged girls whose parents are not allowing them to go to school… I’d like to tell uneducated girls that they should go to school. So that if they walk in a place and get lost they can read the road signs (and get directions). I love education. I want them all to like education.” – Zeinab, student',
-		color: '#98cfff',
+		description: '252,540 beneficiaries<br><br /><img src="map_images/EGY.jpg" width="400" height="110" /><br /><span style="color: #333; font-size: 15px">“It [WFP] helped me with the food it gives us; the rice and the biscuits and helped me to go to school because my parents only agreed to send me to school when they knew it was for free. It helped me go to school because ‘knowledge is light’… I wish to become a teacher to teach unprivileged girls whose parents are not allowing them to go to school… I’d like to tell uneducated girls that they should go to school. So that if they walk in a place and get lost they can read the road signs (and get directions). I love education. I want them all to like education.” – Zeinab, student',
+		color: '#66b9ff',
 		hover_color: '#f9be1c',
 		url: 'default',
 		hide: 'no',
@@ -545,8 +545,8 @@ state_specific:{
 
 	ET: { 
 		name: 'Ethiopia',
-		description: '765,250 beneficiaries<br><br /><img src="map_images/ETH.jpg" width="400" height="110" /><br /><span style="color: #333; font-size: 15px">After the devastating earthquake in 2010, WFP scaled up support for the school meals program of Haiti’s government. More than one million children across the country receive a daily school meal.',
-		color: '#078bff',
+		description: '684,114 beneficiaries<br><br /><img src="map_images/ETH.jpg" width="400" height="110" /><br /><span style="color: #333; font-size: 15px">After the devastating earthquake in 2010, WFP scaled up support for the school meals program of Haiti’s government. More than one million children across the country receive a daily school meal.',
+		color: '#0088ff',
 		hover_color: '#f9be1c',
 		url: 'default',
 		hide: 'no',
@@ -635,8 +635,8 @@ state_specific:{
 
 	GH: { 
 		name: 'Ghana',
-		description: '210,062 beneficiaries<br>',
-		color: '#98cfff',
+		description: '138,708 beneficiaries<br>',
+		color: '#96ceff',
 		hover_color: '#f9be1c',
 		url: 'default',
 		hide: 'no',
@@ -655,8 +655,8 @@ state_specific:{
 
 	GM: { 
 		name: 'Gambia',
-		description: '89,031 beneficiaries<br>',
-		color: '#98cfff',
+		description: '99,603 beneficiaries<br>',
+		color: '#96ceff',
 		hover_color: '#f9be1c',
 		url: 'default',
 		hide: 'no',
@@ -665,8 +665,8 @@ state_specific:{
 
 	GN: { 
 		name: 'Guinea',
-		description: '109,977 beneficiaries<br>',
-		color: '#98cfff',
+		description: '112,183 beneficiaries<br>',
+		color: '#96ceff',
 		hover_color: '#f9be1c',
 		url: 'default',
 		hide: 'no',
@@ -715,8 +715,8 @@ state_specific:{
 
 	GW: { 
 		name: 'Guinea Bissau',
-		description: '110,877 beneficiaries<br>',
-		color: '#98cfff',
+		description: '85,069 beneficiaries<br>',
+		color: '#96ceff',
 		hover_color: '#f9be1c',
 		url: 'default',
 		hide: 'no',
@@ -735,7 +735,7 @@ state_specific:{
 
 	HN: { 
 		name: 'Honduras',
-		description: '1,333,444 beneficiaries<br><br /><img src="map_images/HON.jpg" width="400" height="110" /><br /><span style="color: #333; font-size: 15px">This country’s WFP school meals operation is the third largest in the entire world, reaching almost 1.4 million children in more than 17,500 schools throughout the nation. School meals typically consist of beans, vegetables and rice to provide the vitamins and minerals needed to grow and be healthy.',
+		description: '105,471 beneficiaries<br><br /><img src="map_images/HON.jpg" width="400" height="110" /><br /><span style="color: #333; font-size: 15px">This country’s WFP school meals operation is the third largest in the entire world, reaching almost 1.4 million children in more than 17,500 schools throughout the nation. School meals typically consist of beans, vegetables and rice to provide the vitamins and minerals needed to grow and be healthy.',
 		color: '#006cff',
 		hover_color: '#f9be1c',
 		url: 'default',
@@ -755,8 +755,8 @@ state_specific:{
 
 	HT: { 
 		name: 'Haiti',
-		description: '650,521 beneficiaries<br><br /><img src="map_images/HAI.jpg" width="400" height="110" /><br /><span style="color: #333; font-size: 15px">After the devastating earthquake in 2010, WFP scaled up support for the school meals program of Haiti’s government. More than one million children across the country receive a daily school meal.',
-		color: '#35a0ff',
+		description: '895,302 beneficiaries<br><br /><img src="map_images/HAI.jpg" width="400" height="110" /><br /><span style="color: #333; font-size: 15px">After the devastating earthquake in 2010, WFP scaled up support for the school meals program of Haiti’s government. More than one million children across the country receive a daily school meal.',
+		color: '#006cff',
 		hover_color: '#f9be1c',
 		url: 'default',
 		hide: 'no',
@@ -785,8 +785,8 @@ state_specific:{
 
 	ID: { 
 		name: 'Indonesia',
-		description: '11,144 beneficiaries<br><br /><img src="map_images/IND.jpg" width="400" height="110" /><br /><span style="color: #333; font-size: 15px">WFPs homegrown school meals pilot project in Indonesia aims to ensure that kids like these escape the cycle of hunger through healthy food and a good education, while also boosting local economies and supporting small farmers.',
-		color: '#98cfff',
+		description: '19,329 beneficiaries<br><br /><img src="map_images/IND.jpg" width="400" height="110" /><br /><span style="color: #333; font-size: 15px">WFPs homegrown school meals pilot project in Indonesia aims to ensure that kids like these escape the cycle of hunger through healthy food and a good education, while also boosting local economies and supporting small farmers.',
+		color: '#96ceff',
 		hover_color: '#f9be1c',
 		url: 'default',
 		hide: 'no',
@@ -825,8 +825,8 @@ state_specific:{
 
 	IQ: { 
 		name: 'Iraq',
-		description: '678,132 beneficiaries<br>',
-		color: '#35a0ff',
+		description: '398,641 beneficiaries<br>',
+		color: '#66b9ff',
 		hover_color: '#f9be1c',
 		url: 'default',
 		hide: 'no',
@@ -835,8 +835,8 @@ state_specific:{
 
 	IR: { 
 		name: 'Iran',
-		description: '2,957 beneficiaries<br>',
-		color: '#98cfff',
+		description: '3,000 beneficiaries<br>',
+		color: '#96ceff',
 		hover_color: '#f9be1c',
 		url: 'default',
 		hide: 'no',
@@ -875,8 +875,8 @@ state_specific:{
 
 	JO: { 
 		name: 'Jordan',
-		description: '12,285 beneficiaries<br><br /><img src="map_images/JOR.jpg" width="400" height="110" /><br /><span style="color: #333; font-size: 15px">In April 2013, about 5,000 students received WFP snacks at school each day in Jordan. The children are given snacks, usually date bars, that are specially fortified with vitamins and minerals.',
-		color: '#98cfff',
+		description: '365,018 beneficiaries<br><br /><img src="map_images/JOR.jpg" width="400" height="110" /><br /><span style="color: #333; font-size: 15px">In April 2013, about 5,000 students received WFP snacks at school each day in Jordan. The children are given snacks, usually date bars, that are specially fortified with vitamins and minerals.',
+		color: '#66b9ff',
 		hover_color: '#f9be1c',
 		url: 'default',
 		hide: 'no',
@@ -895,8 +895,8 @@ state_specific:{
 
 	KE: { 
 		name: 'Kenya',
-		description: '880,466 beneficiaries<br><br /><img src="map_images/KEN.jpg" width="400" height="110" /><br /><span style="color: #333; font-size: 15px">WFP provides daily meals to about 770,000 students and Kenya, and the Ministry of Education handles meals for another 750,000. Globally, the United States and Canada are the largest donors to WFP\'s school meals program.',
-		color: '#078bff',
+		description: '980,216 beneficiaries<br><br /><img src="map_images/KEN.jpg" width="400" height="110" /><br /><span style="color: #333; font-size: 15px">WFP provides daily meals to about 770,000 students and Kenya, and the Ministry of Education handles meals for another 750,000. Globally, the United States and Canada are the largest donors to WFP\'s school meals program.',
+		color: '#006cff',
 		hover_color: '#f9be1c',
 		url: 'default',
 		hide: 'no',
@@ -905,8 +905,8 @@ state_specific:{
 
 	KG: { 
 		name: 'Kyrgyzstan',
-		description: '10,159 beneficiaries<br>',
-		color: '#98cfff',
+		description: '34,280 beneficiaries<br>',
+		color: '#96ceff',
 		hover_color: '#f9be1c',
 		url: 'default',
 		hide: 'no',
@@ -915,8 +915,8 @@ state_specific:{
 
 	KH: { 
 		name: 'Cambodia',
-		description: '527,535 beneficiaries<br><br><img src="map_images/CAM.jpg" width="400" height="110" /><br /><span style="color: #333; font-size: 15px">Since 2008, WFP school meals has benefited 500,000 students in Cambodia each year.',
-		color: '#35a0ff',
+		description: '446,297 beneficiaries<br><br><img src="map_images/CAM.jpg" width="400" height="110" /><br /><span style="color: #333; font-size: 15px">Since 2008, WFP school meals has benefited 500,000 students in Cambodia each year.',
+		color: '#2c9eff',
 		hover_color: '#f9be1c',
 		url: 'default',
 		hide: 'no',
@@ -925,7 +925,7 @@ state_specific:{
 
 	KP: { 
 		name: 'North Korea',
-		description: '1,632,272 beneficiaries<br><br><img src="map_images/DPRK.jpg" width="400" height="110" /><br /><span style="color: #333; font-size: 15px">WFP works with the government to produce food for children in orphanages, schools and hospitals in 14 locations across the country, where almost one in three kids remains chronically malnourished.',
+		description: '896,884 beneficiaries<br><br><img src="map_images/DPRK.jpg" width="400" height="110" /><br /><span style="color: #333; font-size: 15px">WFP works with the government to produce food for children in orphanages, schools and hospitals in 14 locations across the country, where almost one in three kids remains chronically malnourished.',
 		color: '#006cff',
 		hover_color: '#f9be1c',
 		url: 'default',
@@ -965,8 +965,8 @@ state_specific:{
 
 	LA: { 
 		name: 'Laos',
-		description: '192,362 beneficiaries<br>',
-		color: '#98cfff',
+		description: '192,266 beneficiaries<br>',
+		color: '#96ceff',
 		hover_color: '#f9be1c',
 		url: 'default',
 		hide: 'no',
@@ -975,8 +975,8 @@ state_specific:{
 
 	LK: { 
 		name: 'Sri Lanka',
-		description: '162,660 beneficiaries<br>',
-		color: '#98cfff',
+		description: '153,123 beneficiaries<br>',
+		color: '#96ceff',
 		hover_color: '#f9be1c',
 		url: 'default',
 		hide: 'no',
@@ -985,8 +985,8 @@ state_specific:{
 
 	LR: { 
 		name: 'Liberia',
-		description: '200,280 beneficiaries<br>',
-		color: '#98cfff',
+		description: '124,557 beneficiaries<br>',
+		color: '#96ceff',
 		hover_color: '#f9be1c',
 		url: 'default',
 		hide: 'no',
@@ -995,8 +995,8 @@ state_specific:{
 
 	LS: { 
 		name: 'Lesotho',
-		description: '170,983 beneficiaries<br><br /><img src="map_images/LES.jpg" width="400" height="110" /><br /><span style="color: #333; font-size: 15px">“Having been a student myself in Lesotho who benefited from school feeding, it is very close to my heart, because after having walked 3, 5 kilometers to school, you really needed to be energized in order to learn.” – Mamphono Khaketla, was recently Lesotho’s Minister of Education',
-		color: '#98cfff',
+		description: '251,627 beneficiaries<br><br /><img src="map_images/LES.jpg" width="400" height="110" /><br /><span style="color: #333; font-size: 15px">“Having been a student myself in Lesotho who benefited from school feeding, it is very close to my heart, because after having walked 3, 5 kilometers to school, you really needed to be energized in order to learn.” – Mamphono Khaketla, was recently Lesotho’s Minister of Education',
+		color: '#66b9ff',
 		hover_color: '#f9be1c',
 		url: 'default',
 		hide: 'no',
@@ -1075,8 +1075,8 @@ state_specific:{
 
 	MG: { 
 		name: 'Madagascar',
-		description: '238,973 beneficiaries<br>',
-		color: '#98cfff',
+		description: '252,820 beneficiaries<br>',
+		color: '#66b9ff',
 		hover_color: '#f9be1c',
 		url: 'default',
 		hide: 'no',
@@ -1095,8 +1095,8 @@ state_specific:{
 
 	ML: { 
 		name: 'Mali',
-		description: '305,327 beneficiaries<br><br /><img src="map_images/MAL.jpg" width="400" height="110" /><br /><span style="color: #333; font-size: 15px">“I would like all the school children in the world to have enough food to eat… If they are not hungry they can study well, and in the future they will help their family by earning money to buy food. And children won’t be hungry anymore.” – Mariam, student',
-		color: '#6abaff',
+		description: '277,265 beneficiaries<br><br /><img src="map_images/MAL.jpg" width="400" height="110" /><br /><span style="color: #333; font-size: 15px">“I would like all the school children in the world to have enough food to eat… If they are not hungry they can study well, and in the future they will help their family by earning money to buy food. And children won’t be hungry anymore.” – Mariam, student',
+		color: '#66b9ff',
 		hover_color: '#f9be1c',
 		url: 'default',
 		hide: 'no',
@@ -1105,8 +1105,8 @@ state_specific:{
 
 	MM: { 
 		name: 'Myanmar',
-		description: '208,502 beneficiaries<br>',
-		color: '#98cfff',
+		description: '218,403 beneficiaries<br>',
+		color: '#66b9ff',
 		hover_color: '#f9be1c',
 		url: 'default',
 		hide: 'no',
@@ -1125,8 +1125,8 @@ state_specific:{
 
 	MR: { 
 		name: 'Mauritania',
-		description: '148,952 beneficiaries<br>',
-		color: '#98cfff',
+		description: '153,669 beneficiaries<br>',
+		color: '#96ceff',
 		hover_color: '#f9be1c',
 		url: 'default',
 		hide: 'no',
@@ -1135,8 +1135,8 @@ state_specific:{
 
 	MW: { 
 		name: 'Malawi',
-		description: '803,210 beneficiaries<br><br /><img src="map_images/MWI.jpg" width="400" height="110" /><br /><span style="color: #333; font-size: 15px">“I wouldn’t have finished my primary school if there had been no school meals… I want the girls to avoid getting married and pregnant early… I want them to know it isn’t worth losing their education.” – Alice Kankhwala, today a teacher',
-		color: '#078bff',
+		description: '841,972 beneficiaries<br><br /><img src="map_images/MWI.jpg" width="400" height="110" /><br /><span style="color: #333; font-size: 15px">“I wouldn’t have finished my primary school if there had been no school meals… I want the girls to avoid getting married and pregnant early… I want them to know it isn’t worth losing their education.” – Alice Kankhwala, today a teacher',
+		color: '#006cff',
 		hover_color: '#f9be1c',
 		url: 'default',
 		hide: 'no',
@@ -1165,8 +1165,8 @@ state_specific:{
 
 	MZ: { 
 		name: 'Mozambique',
-		description: '81,080 beneficiaries<br><br /><img src="map_images/MOZ.jpg" width="400" height="110" /><br /><span style="color: #333; font-size: 15px">“I like studying and help my classmates to do their homework. I would like to become a teacher.” – Albertina Naftal, student',
-		color: '#98cfff',
+		description: '80,130 beneficiaries<br><br /><img src="map_images/MOZ.jpg" width="400" height="110" /><br /><span style="color: #333; font-size: 15px">“I like studying and help my classmates to do their homework. I would like to become a teacher.” – Albertina Naftal, student',
+		color: '#96ceff',
 		hover_color: '#f9be1c',
 		url: 'default',
 		hide: 'no',
@@ -1195,8 +1195,8 @@ state_specific:{
 
 	NE: { 
 		name: 'Niger',
-		description: '190,850 beneficiaries<br>',
-		color: '#98cfff',
+		description: '197,847 beneficiaries<br>',
+		color: '#96ceff',
 		hover_color: '#f9be1c',
 		url: 'default',
 		hide: 'no',
@@ -1215,8 +1215,8 @@ state_specific:{
 
 	NI: { 
 		name: 'Nicaragua',
-		description: '176,679 beneficiaries<br><br><span style="color: #333; font-size: 15px">This country is among WFP’s newest partners on school meals. In February 2014, WFP and the government of Nicaragua began distributing school meals for the first time. Thanks to this new partnership, over 1 million children in public preschools in Nicaragua will be guaranteed a nutritious school lunch this school year.',
-		color: '#98cfff',
+		description: '155,267 beneficiaries<br><br><span style="color: #333; font-size: 15px">This country is among WFP’s newest partners on school meals. In February 2014, WFP and the government of Nicaragua began distributing school meals for the first time. Thanks to this new partnership, over 1 million children in public preschools in Nicaragua will be guaranteed a nutritious school lunch this school year.',
+		color: '#96ceff',
 		hover_color: '#f9be1c',
 		url: 'default',
 		hide: 'no',
@@ -1245,8 +1245,8 @@ state_specific:{
 
 	NP: { 
 		name: 'Nepal',
-		description: '184,326 beneficiaries<br><br /><img src="map_images/NEP.jpg" width="400" height="110" /><br /><span style="color: #333; font-size: 15px">In Nepal, WFP provides meals to students in grades one through eight, helping improve their nutrition and access to education.',
-		color: '#98cfff',
+		description: '180,283 beneficiaries<br><br /><img src="map_images/NEP.jpg" width="400" height="110" /><br /><span style="color: #333; font-size: 15px">In Nepal, WFP provides meals to students in grades one through eight, helping improve their nutrition and access to education.',
+		color: '#96ceff',
 		hover_color: '#f9be1c',
 		url: 'default',
 		hide: 'no',
@@ -1305,8 +1305,8 @@ state_specific:{
 
 	PH: { 
 		name: 'Philippines',
-		description: '195,328 beneficiaries<br>',
-		color: '#98cfff',
+		description: '126,426 beneficiaries<br>',
+		color: '#96ceff',
 		hover_color: '#f9be1c',
 		url: 'default',
 		hide: 'no',
@@ -1315,8 +1315,8 @@ state_specific:{
 
 	PK: { 
 		name: 'Pakistan',
-		description: '204,405 beneficiaries<br><br /><img src="map_images/PAK.jpg" width="400" height="110" /><br /><span style="color: #333; font-size: 15px">Take-home rations of cooking oil have changed the way parents traditionally view girls’ education in Pakistan, encouraging more families to send their daughters to school.',
-		color: '#98cfff',
+		description: '234,130 beneficiaries<br><br /><img src="map_images/PAK.jpg" width="400" height="110" /><br /><span style="color: #333; font-size: 15px">Take-home rations of cooking oil have changed the way parents traditionally view girls’ education in Pakistan, encouraging more families to send their daughters to school.',
+		color: '#66b9ff',
 		hover_color: '#f9be1c',
 		url: 'default',
 		hide: 'no',
@@ -1345,8 +1345,8 @@ state_specific:{
 
 	PS: { 
 		name: 'Palestine',
-		description: '155,322 beneficiaries<br>',
-		color: '#98cfff',
+		description: '140,750 beneficiaries<br>',
+		color: '#96ceff',
 		hover_color: '#f9be1c',
 		url: 'default',
 		hide: 'no',
@@ -1415,8 +1415,8 @@ state_specific:{
 
 	RW: { 
 		name: 'Rwanda',
-		description: '105,651 beneficiaries<br>',
-		color: '#98cfff',
+		description: '53,909 beneficiaries<br>',
+		color: '#96ceff',
 		hover_color: '#f9be1c',
 		url: 'default',
 		hide: 'no',
@@ -1445,8 +1445,8 @@ state_specific:{
 
 	SD: { 
 		name: 'Sudan',
-		description: '863,460 beneficiaries<br><br><img src="map_images/SUD.jpg" width="400" height="110" /><br /><span style="color: #333; font-size: 15px">“With all these expenses, I find it difficult to meet the needs of all my children, and this program has lifted the burden of providing a school meal to Ayisha.” – Ibrahim, a school teacher whose salary is barely enough to cover school fees for all of his children, including fifth grader Ayisha',
-		color: '#078bff',
+		description: '908,893 beneficiaries<br><br><img src="map_images/SUD.jpg" width="400" height="110" /><br /><span style="color: #333; font-size: 15px">“With all these expenses, I find it difficult to meet the needs of all my children, and this program has lifted the burden of providing a school meal to Ayisha.” – Ibrahim, a school teacher whose salary is barely enough to cover school fees for all of his children, including fifth grader Ayisha',
+		color: '#006cff',
 		hover_color: '#f9be1c',
 		url: 'default',
 		hide: 'no',
@@ -1485,8 +1485,8 @@ state_specific:{
 
 	SL: { 
 		name: 'Sierra Leone',
-		description: '234,028 beneficiaries<br>',
-		color: '#98cfff',
+		description: '249,897 beneficiaries<br>',
+		color: '#66b9ff',
 		hover_color: '#f9be1c',
 		url: 'default',
 		hide: 'no',
@@ -1496,7 +1496,7 @@ state_specific:{
 	SN: { 
 		name: 'Senegal',
 		description: '499,130 beneficiaries<br>',
-		color: '#6abaff',
+		color: '#2c9eff',
 		hover_color: '#f9be1c',
 		url: 'default',
 		hide: 'no',
@@ -1505,8 +1505,8 @@ state_specific:{
 
 	SO: { 
 		name: 'Somalia',
-		description: '117,056 beneficiaries<br><br /><img src="map_images/SOM.jpg" width="400" height="110" /><br /><span style="color: #333; font-size: 15px">In Somalia, WFP’s school meals are helping more girls continue their education, including girls at the Abdirahman Godyare primary school. Girls have often been expected to stay home and help with housework and child-rearing, but the daily meals encourage families to continue sending them to class.',
-		color: '#98cfff',
+		description: '94,608 beneficiaries<br><br /><img src="map_images/SOM.jpg" width="400" height="110" /><br /><span style="color: #333; font-size: 15px">In Somalia, WFP’s school meals are helping more girls continue their education, including girls at the Abdirahman Godyare primary school. Girls have often been expected to stay home and help with housework and child-rearing, but the daily meals encourage families to continue sending them to class.',
+		color: '#96ceff',
 		hover_color: '#f9be1c',
 		url: 'default',
 		hide: 'no',
@@ -1525,8 +1525,8 @@ state_specific:{
 
 	SS: { 
 		name: 'South Sudan',
-		description: '272,486 beneficiaries<br><br /><img src="map_images/SSD.jpg" width="400" height="110" /><br /><span style="color: #333; font-size: 15px">“We know that food is a source of energy. If you come from home without eating anything, if the teacher tries to teach you, you’ll look at the chalk but one letter would divide in two which is not good.” – Bakhita Josephine Sisto, student',
-		color: '#6abaff',
+		description: '215,980 beneficiaries<br><br /><img src="map_images/SSD.jpg" width="400" height="110" /><br /><span style="color: #333; font-size: 15px">“We know that food is a source of energy. If you come from home without eating anything, if the teacher tries to teach you, you’ll look at the chalk but one letter would divide in two which is not good.” – Bakhita Josephine Sisto, student',
+		color: '#66b9ff',
 		hover_color: '#f9be1c',
 		url: 'default',
 		hide: 'no',
@@ -1545,18 +1545,18 @@ state_specific:{
 
 	SY: { 
 		name: 'Syria',
-		description: 'default',
-		color: 'default',
-		hover_color: 'default',
+		description: '90,054 beneficiaries<br>',
+		color: '#96ceff',
+		hover_color: '#f9be1c',
 		url: 'default',
 		hide: 'no',
-		inactive: 'yes'
+		inactive: 'no'
 	},
 
 	SZ: { 
 		name: 'Swaziland',
-		description: '144,750 beneficiaries<br>',
-		color: '#98cfff',
+		description: '92,951 beneficiaries<br>',
+		color: '#96ceff',
 		hover_color: '#f9be1c',
 		url: 'default',
 		hide: 'no',
@@ -1565,8 +1565,8 @@ state_specific:{
 
 	TD: { 
 		name: 'Chad',
-		description: '192,234 beneficiaries<br>',
-		color: '#98cfff',
+		description: '214,360 beneficiaries<br>',
+		color: '#66b9ff',
 		hover_color: '#f9be1c',
 		url: 'default',
 		hide: 'no',
@@ -1595,8 +1595,8 @@ state_specific:{
 
 	TJ: { 
 		name: 'Tajikistan',
-		description: '327,346 beneficiaries<br>',
-		color: '#6abaff',
+		description: '331,116 beneficiaries<br>',
+		color: '#66b9ff',
 		hover_color: '#f9be1c',
 		url: 'default',
 		hide: 'no',
@@ -1665,8 +1665,8 @@ state_specific:{
 
 	TZ: { 
 		name: 'Tanzania',
-		description: '536,027 beneficiaries<br><br><img src="map_images/TAN.jpg" width="400" height="110" /><br /><span style="color: #333; font-size: 15px">“It helped me to grow healthy. Without WFP food, I could not have lived in peace. I could not have studied.” – Bernard Samuel, today a medical student who volunteers with food management at Sanganigwa Street Childrens’ Home where he received meals as a child',
-		color: '#35a0ff',
+		description: '487,606 beneficiaries<br><br><img src="map_images/TAN.jpg" width="400" height="110" /><br /><span style="color: #333; font-size: 15px">“It helped me to grow healthy. Without WFP food, I could not have lived in peace. I could not have studied.” – Bernard Samuel, today a medical student who volunteers with food management at Sanganigwa Street Childrens’ Home where he received meals as a child',
+		color: '#2c9eff',
 		hover_color: '#f9be1c',
 		url: 'default',
 		hide: 'no',
@@ -1685,8 +1685,8 @@ state_specific:{
 
 	UG: { 
 		name: 'Uganda',
-		description: '112,511 beneficiaries<br><br /><img src="map_images/UGA.jpg" width="400" height="110" /><br /><span style="color: #333; font-size: 15px">“Thanks to WFP’s school meals program, student enrollment in the country’s Karamoja region rose from 5% in 1996 to 33% in 2007.',
-		color: '#98cfff',
+		description: '100,740 beneficiaries<br><br /><img src="map_images/UGA.jpg" width="400" height="110" /><br /><span style="color: #333; font-size: 15px">“Thanks to WFP’s school meals program, student enrollment in the country’s Karamoja region rose from 5% in 1996 to 33% in 2007.',
+		color: '#96ceff',
 		hover_color: '#f9be1c',
 		url: 'default',
 		hide: 'no',
@@ -1755,8 +1755,8 @@ state_specific:{
 
 	YE: { 
 		name: 'Yemen',
-		description: '59,154 beneficiaries<br><br /><img src="map_images/YEM.jpg" width="400" height="110" /><br /><span style="color: #333; font-size: 15px">“For me, it’s a bonus that helps me make sure all my girls get an education… But for many others in this country less fortunate than me, it’s a necessity. Without it, their daughters would probably not be in school at all.” – Ali Mohamed Ghaleb, father to five daughters who receive annual rations of wheat and vegetable oil through the Food for Girls’ Education Programme',
-		color: '#98cfff',
+		description: '109,517 beneficiaries<br><br /><img src="map_images/YEM.jpg" width="400" height="110" /><br /><span style="color: #333; font-size: 15px">“For me, it’s a bonus that helps me make sure all my girls get an education… But for many others in this country less fortunate than me, it’s a necessity. Without it, their daughters would probably not be in school at all.” – Ali Mohamed Ghaleb, father to five daughters who receive annual rations of wheat and vegetable oil through the Food for Girls’ Education Programme',
+		color: '#96ceff',
 		hover_color: '#f9be1c',
 		url: 'default',
 		hide: 'no',
@@ -1775,8 +1775,8 @@ state_specific:{
 
 	ZM: { 
 		name: 'Zambia',
-		description: '868,951 beneficiaries<br><br><img src="map_images/ZAM.jpg" width="400" height="110" /><br /><span style="color: #333; font-size: 15px">When WFP re-started Zambia’s school meals program in 2002 on the heels of one of the country’s worst droughts, it reached just 10,000 children. Just over a decade later, it now feeds 860,000 kids in more than 2,000 schools on a daily basis.',
-		color: '#078bff',
+		description: '861,638 beneficiaries<br><br><img src="map_images/ZAM.jpg" width="400" height="110" /><br /><span style="color: #333; font-size: 15px">When WFP re-started Zambia’s school meals program in 2002 on the heels of one of the country’s worst droughts, it reached just 10,000 children. Just over a decade later, it now feeds 860,000 kids in more than 2,000 schools on a daily basis.',
+		color: '#006cff',
 		hover_color: '#f9be1c',
 		url: 'default',
 		hide: 'no',
@@ -1895,7 +1895,7 @@ locations:{
 
 	8: { 
 		name: 'Iraq',
-		description: '678,132 beneficiaries<br>',
+		description: '398,641 beneficiaries<br>',
 		lat: '33.3',
 		lng: '44.4',
 		color: 'default',
